@@ -8,6 +8,7 @@ public class SpringRestMiniProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringRestMiniProjectApplication.class, args);
+		System.out.println("Hello World");
 	}
 
 }
